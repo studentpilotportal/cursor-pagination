@@ -12,7 +12,7 @@ in the legacy package [cloudcreativity/laravel-json-api](https://github.com/clou
 Install using [Composer](https://getcomposer.org)
 
 ```bash
-composer require laravel-json-api/cursor-pagination
+composer require studentpilotportal/cursor-pagination
 ```
 
 ## License
