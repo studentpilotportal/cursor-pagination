@@ -13,7 +13,7 @@ in the legacy package [cloudcreativity/laravel-json-api](https://github.com/clou
 Install using [Composer](https://getcomposer.org)
 
 ```bash
-composer require laravel-json-api/cursor-pagination:dev-feature/id-decoding
+composer require studentpilotportal/cursor-pagination:dev-feature/id-decoding
 ```
 
 ## License
