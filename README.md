@@ -1,3 +1,6 @@
+> This branch contains a bug fix that allows the use of hashed ids with cursor pagination. Previously, the ids would not be properly encoded. This repo only exists to prevent unexpected changes in production from the original author since these changes have not yet been merge. The original author's package should be used as soon as possible once the changes are merged and is stable.
+
+
 # laravel-json-api/cursor-pagination
 
 Cursor pagination for [Laravel JSON:API](https://laraveljsonapi.io) packages.
@@ -10,7 +13,7 @@ in the legacy package [cloudcreativity/laravel-json-api](https://github.com/clou
 Install using [Composer](https://getcomposer.org)
 
 ```bash
-composer require laravel-json-api/cursor-pagination
+composer require laravel-json-api/cursor-pagination:dev-feature/id-decoding
 ```
 
 ## License
