@@ -1,5 +1,6 @@
 {
-    "name": "laravel-json-api/cursor-pagination",
+    "name": "studentpilotportal/cursor-pagination",
+    "type": "package",
     "description": "Laravel JSON:API cursor pagination implementation.",
     "keywords": [
         "jsonapi.org",
